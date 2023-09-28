@@ -19,7 +19,7 @@ Welcome to my repository for my personal website's source code. I've built this 
    - [Visit Hometown](https://tsabitapr.github.io/tsabitaputri/quiz1/hometown.html)
 
 4. **Local Food**
-   - [Visit Local Food](https://tsabitaputri.github.io/tsabitaputri/quiz1/food.html)
+   - [Visit Local Food](https://tsabitapr.github.io/tsabitaputri/quiz1/food.html)
 
 5. **Tourist Places**
    - [Visit Tourist Places](https://tsabitapr.github.io/tsabitaputri/quiz1/tourist.html)
